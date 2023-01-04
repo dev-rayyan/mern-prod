@@ -1,6 +1,6 @@
 {
   "scripts": {
     
-    "start":"./api/server.js"
+    "start":"node api/server.js"
   }
 }
